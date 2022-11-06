@@ -2,7 +2,7 @@
 
 
 
-<p> my name is Javarius Loyal as of september 18,2022 I recevied my certifaction as a Frontend web developer from Udacity.
+<p> My name is Javarius Loyal as of september 18,2022 I recevied my certifaction as a Frontend web developer from Udacity.
 I'm a gamer but, I beta test games and have a passion for gaming as well.</p>
 
 <h2> Projects</h2>
